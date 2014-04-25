@@ -1,0 +1,9 @@
+.question {
+	font-family: serif;
+}
+
+.answer {
+	font-family: sans-serif;
+	font-size: 0.8em;
+	color: DarkGray;
+}
